@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Feed the cat",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "title": "Lunch with friends",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Dinner with family",
+      "isCompleted": false
+    }
+  ]
+}

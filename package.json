@@ -7,9 +7,11 @@
     "dev": "vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "json-server": "json-server --watch db.json --port 3004"
   },
   "dependencies": {
+    "json-server": "^0.17.3",
     "vue": "^3.3.4"
   },
   "devDependencies": {
